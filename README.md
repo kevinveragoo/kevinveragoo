@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevinveragoo
-- 🌱 I’m currently learning React with TypeScript, VSCode
-- 🌱 I know Swift, SwiftUI, Vapor, PostgreSQL, BASH, Xcode
+- 🧑‍💻 I’m currently learning React with TypeScript, VSCode
+- 🧑‍💻 I know Swift, SwiftUI, Vapor, PostgreSQL, BASH, Xcode
 - 📫 How to reach me kevinpveragoo@icloud.com
 
 <!---.
